@@ -3,7 +3,7 @@
 
     <groupId>com.simpligility.android</groupId>
     <artifactId>facebook-api-aggregator</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.2.1</version>
     <packaging>pom</packaging>
 
     <!-- required by Android Maven Plugin, also ensures other plugins are pretty new -->
